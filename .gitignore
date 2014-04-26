@@ -3,6 +3,9 @@
 *.a
 *.so
 
+# binary
+countries
+
 # Folders
 _obj
 _test
